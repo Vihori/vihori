@@ -1,6 +1,6 @@
-<!--### Oi, sou a Vitória 👋
+### Oi, sou a Vitória 👋
 
-
+<!--
 **Vihori/vihori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,19 +9,10 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ela/dela...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
   - 🌱 estudando HTML, CSS, Java e Hardware...
   - 😄 Pronomes: ela/dela
   - 💬 amante da cultura geek/nerd num geral.
---> 
-<html>
- <head>
-  meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE-edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
- </head>
- <body>
-   <h2> Olá meu nome é vitória :) </h2>
- </body>
-</html>
+
+
