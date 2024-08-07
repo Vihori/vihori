@@ -11,6 +11,6 @@
 - 😄 Pronouns: ela/dela...
 - ⚡ Fun fact: ...  -->
 
-  - 🌱 estudando HTML, CSS, Java e Hardware...
+  - 🌱 estudando HTML, CSS, JavaScript e C
   - 😄 Pronomes: ela/dela
   - 💬 amante da cultura geek/nerd num geral. 
